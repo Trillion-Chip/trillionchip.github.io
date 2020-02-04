@@ -12,7 +12,7 @@
 body {
   background: #fff;
   color: #444;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway";
 }
 
 a {
@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -231,7 +231,7 @@ h6 {
 
 #intro .intro-info .btn-get-started,
 #intro .intro-info .btn-services {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   font-size: 13px;
   font-weight: 600;
   text-transform: uppercase;
@@ -281,7 +281,7 @@ h6 {
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway";
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -477,7 +477,7 @@ h6 {
   text-align: center;
   font-weight: 700;
   position: relative;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
 }
 
 .section-header p {
@@ -509,7 +509,7 @@ h6 {
 
 #about .about-content h2 {
   color: #413e66;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   font-weight: 700;
 }
 
@@ -542,7 +542,7 @@ h6 {
 
 #about .about-img img {
   width: 100%;
-  border: 8px solid #fff;
+  border: 5px solid #fff;
   transition: .5s;
 }
 
@@ -554,9 +554,9 @@ h6 {
 
 #about .about-img::before {
   position: absolute;
-  left: -31px;
-  top: -30px;
-  width: 90%;
+  left: -11px;
+  top: -10px;
+  width: 96%;
   height: 92%;
   z-index: -1;
   content: '';
@@ -566,9 +566,9 @@ h6 {
 
 #about .about-img::after {
   position: absolute;
-  right: -31px;
-  bottom: -30px;
-  width: 90%;
+  left: -11px;
+  top: -10px;
+  width: 96%;
   height: 92%;
   z-index: -1;
   content: '';
@@ -673,7 +673,7 @@ h6 {
 }
 
 #why-us .counters span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   font-weight: bold;
   font-size: 48px;
   display: block;
@@ -683,7 +683,7 @@ h6 {
 #why-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   font-size: 14px;
   color: #8a87b6;
 }
@@ -708,7 +708,7 @@ h6 {
 }
 
 #call-to-action .cta-btn {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   font-weight: 700;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1180,7 +1180,7 @@ h6 {
   padding: 22px 0;
   display: block;
   position: relative;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   font-size: 20px;
   line-height: 1;
   font-weight: 400;
@@ -1234,7 +1234,7 @@ h6 {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   color: #413e66;
   font-weight: 400;
   letter-spacing: 3px;
@@ -1245,7 +1245,7 @@ h6 {
   font-size: 13px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Raleway";
   color: #535074;
 }
 
