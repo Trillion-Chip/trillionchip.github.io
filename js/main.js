@@ -160,6 +160,12 @@ function timer() {
     document.getElementById('product3').innerHTML = "Completed";
   } else {
     seconds--;
+  }document.getElementById('product4').innerHTML = pad(days) + ":" + pad(hours) + ":" + pad(minutes) + ":" + pad(remainingSeconds);
+  if (seconds == 0) {
+    clearInterval(countdownTimer);
+    document.getElementById('product4').innerHTML = "Completed";
+  } else {
+    seconds--;
   }
 }
 var countdownTimer = setInterval('timer()', 1000);
